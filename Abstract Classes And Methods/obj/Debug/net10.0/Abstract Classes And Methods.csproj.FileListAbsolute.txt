@@ -1,0 +1,15 @@
+C:\Users\user\dcit318-assignment2-22429553\Abstract Classes And Methods\bin\Debug\net10.0\Abstract Classes And Methods.exe
+C:\Users\user\dcit318-assignment2-22429553\Abstract Classes And Methods\bin\Debug\net10.0\Abstract Classes And Methods.deps.json
+C:\Users\user\dcit318-assignment2-22429553\Abstract Classes And Methods\bin\Debug\net10.0\Abstract Classes And Methods.runtimeconfig.json
+C:\Users\user\dcit318-assignment2-22429553\Abstract Classes And Methods\bin\Debug\net10.0\Abstract Classes And Methods.dll
+C:\Users\user\dcit318-assignment2-22429553\Abstract Classes And Methods\bin\Debug\net10.0\Abstract Classes And Methods.pdb
+C:\Users\user\dcit318-assignment2-22429553\Abstract Classes And Methods\obj\Debug\net10.0\Abstract Classes And Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\dcit318-assignment2-22429553\Abstract Classes And Methods\obj\Debug\net10.0\Abstract Classes And Methods.AssemblyInfoInputs.cache
+C:\Users\user\dcit318-assignment2-22429553\Abstract Classes And Methods\obj\Debug\net10.0\Abstract Classes And Methods.AssemblyInfo.cs
+C:\Users\user\dcit318-assignment2-22429553\Abstract Classes And Methods\obj\Debug\net10.0\Abstract Classes And Methods.csproj.CoreCompileInputs.cache
+C:\Users\user\dcit318-assignment2-22429553\Abstract Classes And Methods\obj\Debug\net10.0\Abstract Classes And Methods.sourcelink.json
+C:\Users\user\dcit318-assignment2-22429553\Abstract Classes And Methods\obj\Debug\net10.0\Abstract Classes And Methods.dll
+C:\Users\user\dcit318-assignment2-22429553\Abstract Classes And Methods\obj\Debug\net10.0\refint\Abstract Classes And Methods.dll
+C:\Users\user\dcit318-assignment2-22429553\Abstract Classes And Methods\obj\Debug\net10.0\Abstract Classes And Methods.pdb
+C:\Users\user\dcit318-assignment2-22429553\Abstract Classes And Methods\obj\Debug\net10.0\Abstract Classes And Methods.genruntimeconfig.cache
+C:\Users\user\dcit318-assignment2-22429553\Abstract Classes And Methods\obj\Debug\net10.0\ref\Abstract Classes And Methods.dll

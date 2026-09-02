@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\dcit318-assignment2-22429553\\dcit318-assignment2-22429553.csproj",
-      "projectName": "dcit318-assignment2-22429553",
-      "projectPath": "C:\\Users\\user\\dcit318-assignment2-22429553\\dcit318-assignment2-22429553.csproj",
+      "projectUniqueName": "C:\\Users\\user\\dcit318-assignment2-22429553\\Abstract Classes And Methods\\Abstract Classes And Methods.csproj",
+      "projectName": "Abstract Classes And Methods",
+      "projectPath": "C:\\Users\\user\\dcit318-assignment2-22429553\\Abstract Classes And Methods\\Abstract Classes And Methods.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\dcit318-assignment2-22429553\\obj\\",
+      "outputPath": "C:\\Users\\user\\dcit318-assignment2-22429553\\Abstract Classes And Methods\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
